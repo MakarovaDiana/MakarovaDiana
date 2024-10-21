@@ -1,4 +1,4 @@
-# Sveiki atvykę į mano GitHub!
+# Sveiki atvykę į mano Dianos, GitHub!
 
 ## Kas aš esu?
 
@@ -27,4 +27,4 @@ Mano aistra – dirbti su duomenimis ir padėti organizacijoms pasiekti jų tiks
 
 ## Susisiekime!
 
-Jei norite sužinoti daugiau arba bendradarbiauti, rašykite man: [tavo.el.paštas@pvz.com](mailto:tavo.el.paštas@pvz.com)
+Jei norite sužinoti daugiau arba bendradarbiauti, rašykite man: [diana@pvz.com](mailto:diana@pvz.com)
